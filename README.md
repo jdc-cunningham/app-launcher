@@ -4,7 +4,9 @@ A little widget that saves app positions for faster startup.
 
 ### Tech stack
 
-Rust + GTK
+Rust + GTK (too slow to compile on PPP)
+
+C++ GTK (checking...)
 
 ### Misc
 
