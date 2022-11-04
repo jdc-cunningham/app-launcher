@@ -4,9 +4,11 @@ A little widget that saves app positions for faster startup.
 
 ### Tech stack
 
-Rust + GTK (too slow to compile on PPP)
+~~Rust and GTK (too slow to compile on PPP)~~
 
-C++ GTK (checking...)
+~~C++ and GTK (checking...)~~
+
+C and GTK (got it to work, going with it, since Phosh is built with it)
 
 ### Misc
 
